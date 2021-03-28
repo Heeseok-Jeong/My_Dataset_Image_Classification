@@ -1,1 +1,1 @@
-# image-classification-with-transfer-learning
+# 나만의 데이터셋으로 이미지 분류하기 (with 전이학습)
